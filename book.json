@@ -4,6 +4,7 @@
     "description": "",
     "language": "zh-hans",
     "gitbook": "3.2.3",
+    "output": "./docs",
     "styles": {
         "website": "./styles/website.css"
     },
@@ -11,9 +12,11 @@
         "readme": "README.md"
     },
     "plugins": [
+        "fontsettings",
         "splitter",
         "expandable-chapters-small",
         "anchors",
+        "sharing",
         "sharing-plus",
         "anchor-navigation-ex",
         "favicon"
