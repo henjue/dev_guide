@@ -1,5 +1,5 @@
 # [Summary](null) 
-* [开发规范](README.md) 
+* [关于本文档](README.md) 
 * [总开发规范](book/default/README.md) 
 	* [代码分支管理](book/default/branch.md) 
 	* [日常要求](book/default/behavior.md) 
